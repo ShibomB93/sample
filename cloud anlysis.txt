@@ -10,5 +10,7 @@ It is also affordable to apply cloud analytics in healthcare. Healthcare provide
 
 In conclusion, cloud analytics in healthcare is a potent technology that is transforming how academics and healthcare professionals approach and evaluate data. Cloud analytics is a key factor in enhancing the overall healthcare system by enhancing patient care, population health, and efficiency. The usage of cloud analytics will become increasingly more crucial in the future as healthcare data growth continues.
 
+In conclusion, cloud analytics in healthcare is a powerful tool that is helping to revolutionize the way healthcare providers and researchers analyze and process data. By improving patient care, population health, and increasing efficiency, cloud analytics is playing an important role in improving the overall healthcare system. As healthcare data continues to grow, the use of cloud analytics will become even more important in the future.
+
 
 
