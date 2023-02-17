@@ -1,0 +1,14 @@
+write a cloudbuild.yaml file to build and create .net core image and push to gcp container registry
+
+steps:
+
+- name: "gcr.io/cloud-builders/dotnet:3.1"
+  args: ["publish", "-r", "gcr.io/$PROJECT_ID/dotnet-image:latest", "--configuration", "Release", "--output", "./bin/Docker/publish"]
+
+- name: "gcr.io/cloud-builders/docker"
+  args: ["build", "-f", "./bin/Docker/Dockerfile", "-t", "gcr.io/$PROJECT_ID/dotnet-image:latest", "."]
+
+- name: "gcr.io/cloud-builders/docker"
+  args: ["push", "gcr.io/$PROJECT_ID/dotnet-image:latest"]
+
+timeout: "1600s"
