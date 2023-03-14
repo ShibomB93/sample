@@ -1,0 +1,16 @@
+As a patient, I want to book an appointment with a doctor in a government hospital through a web portal so that I can avoid waiting in long queues and save time.
+
+As a patient, I want to search for doctors by specialty, name, and availability so that I can find the right doctor for my medical condition and schedule a convenient appointment.
+
+As a patient, I want to view the doctor's profile, including their education, experience, and specialization, so that I can make an informed decision before booking an appointment.
+
+As a patient, I want to select the date and time of my appointment based on the doctor's availability so that I can schedule my appointment at a time that suits me.
+
+As a patient, I want to receive a confirmation of my appointment through email or SMS so that I can keep track of my scheduled appointment.
+
+As a patient, I want to reschedule or cancel my appointment if needed, so that I can adjust my appointment based on my changing schedule or medical needs.
+
+As a patient, I want to receive reminders for my upcoming appointments so that I can be prepared for my medical consultation and avoid missing my scheduled appointment.
+
+As a patient, I want to provide feedback after my appointment so that I can rate the doctor and the services provided by the government hospital, and help improve the quality of healthcare services.
+
