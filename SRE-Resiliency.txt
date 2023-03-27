@@ -1,0 +1,32 @@
+Section 1: SRE Practices
+
+Does your organization have a dedicated SRE team?
+How well-defined are your SRE roles and responsibilities?
+How do you measure the success of your SRE team?
+How do you prioritize SRE work?
+How do you handle incident response and post-mortems?
+How do you measure and track your SLOs and SLIs?
+How do you manage your service level objectives (SLOs)?
+How do you ensure that your SRE practices are continuously improving?
+
+Section 2: Resiliency Engineering Practices
+
+How do you measure the resiliency of your systems?
+How do you monitor for and prevent cascading failures?
+How do you design and implement fault tolerance mechanisms?
+How do you handle capacity planning and scaling?
+How do you test your disaster recovery plan?
+How do you manage dependencies and third-party services?
+How do you prioritize resiliency work?
+How do you ensure that your resiliency engineering practices are continuously improving?
+
+Section 3: Overall Maturity
+
+How well-integrated are your SRE and resiliency engineering practices?
+How effective is your organization at preventing and handling incidents?
+How mature is your organization's approach to resiliency engineering?
+How mature is your organization's approach to SRE?
+How frequently do you review and update your SRE and resiliency engineering practices?
+How much support does your organization provide for SRE and resiliency engineering?
+How well do your SRE and resiliency engineering practices align with your business goals?
+How well do your SRE and resiliency engineering practices align with industry best practices?
