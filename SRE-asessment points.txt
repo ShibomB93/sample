@@ -1,0 +1,19 @@
+Incident management: The organization's ability to detect, respond to, and resolve incidents. This includes the use of tools and processes for incident response, as well as the ability to conduct post-incident reviews to identify root causes and prevent future incidents.
+
+Service level objectives (SLOs) and service level agreements (SLAs): The organization's ability to define and measure the reliability and availability of its services. This includes the use of SLOs and SLAs to set targets for service performance, as well as the ability to monitor and report on service performance against these targets.
+
+Monitoring and observability: The organization's ability to collect and analyze data from its systems to ensure they are operating correctly. This includes the use of metrics, logs, and traces to provide insights into system performance and identify issues before they become incidents.
+
+Change management: The organization's ability to manage changes to its systems in a controlled and predictable manner. This includes the use of processes for change approval, testing, and deployment, as well as the ability to roll back changes if they cause issues.
+
+Automation: The organization's ability to automate routine tasks and processes to improve efficiency and reduce the risk of human error. This includes the use of tools for infrastructure provisioning, deployment, and configuration management.
+
+Resilience engineering: The organization's ability to design systems that can withstand failures and continue to operate in the face of disruptions. This includes the use of techniques such as redundancy, fault tolerance, and disaster recovery planning.
+
+Collaboration and communication: The organization's ability to foster collaboration and communication between different teams involved in system development and operation. This includes the use of tools for collaboration, such as chat systems and project management tools, as well as the establishment of clear roles and responsibilities for different teams.
+
+Continuous improvement: The organization's ability to continuously improve its systems and processes over time. This includes the use of metrics and data to identify areas for improvement, as well as the implementation of a culture of experimentation and innovation.
+
+
+
+

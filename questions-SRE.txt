@@ -1,0 +1,421 @@
+Incident management 
+
+What is your organization's incident response plan?
+a) We don't have a documented incident response plan
+b) We have a documented plan but it is not communicated to all stakeholders
+c) We have a documented plan that is communicated to all stakeholders
+
+Does your organization have a defined incident management team with clear roles and responsibilities?
+a) We don't have a defined incident management team
+b) We have a team but the roles and responsibilities are not clearly defined
+c) We have a defined team with clear roles and responsibilities
+
+How do you classify incidents?
+a) We don't have a clear classification process
+b) We have a process but it is not consistently applied
+c) We have a clear and consistently applied classification process
+
+How quickly can your team respond to incidents?
+a) We don't have a defined SLA for incident response times
+b) Our response times are not consistent
+c) We have a defined SLA for incident response times and consistently meet it
+
+How do you identify and prioritize incidents?
+a) We don't have a system for identifying and prioritizing incidents
+b) We have a system but it is not consistently applied
+c) We have a system for identifying and prioritizing incidents that is consistently applied
+
+How do you communicate incidents to relevant stakeholders?
+a) We don't have a defined communication plan in place
+b) Our communication plan is not consistently applied
+c) We have a defined communication plan that is consistently applied
+
+How do you track incidents?
+a) We don't have a system in place for logging and tracking incidents
+b) Our tracking system is not consistently applied
+c) We have a system in place for logging and tracking incidents that is consistently applied
+
+How do you manage incident resolution?
+a) We don't have a defined process for investigating and resolving incidents
+b) Our process is not consistently applied
+c) We have a defined process for investigating and resolving incidents that is consistently applied
+
+How do you conduct post-incident reviews?
+a) We don't conduct post-incident reviews
+b) We conduct reviews but they are not consistently applied
+c) We conduct post-incident reviews that are consistently applied
+
+How do you measure the effectiveness of your incident management process?
+a) We don't track any metrics related to incident management
+b) We track some metrics but they are not consistently tracked
+c) We track and consistently analyze metrics related to incident management
+
+
+Service level objectives (SLOs) and service level agreements (SLAs)
+
+
+Does your organization have documented SLOs and SLAs?
+a) No, we do not have documented SLOs or SLAs
+b) We have documented SLOs, but not SLAs
+c) We have documented SLAs, but not SLOs
+d) We have documented both SLOs and SLAs
+
+Are your SLOs and SLAs regularly reviewed and updated?
+a) No, they are not reviewed or updated
+b) They are reviewed, but not on a regular basis
+c) They are reviewed and updated on a regular basis
+
+Are your SLOs and SLAs aligned with customer needs and business objectives?
+a) No, they are not aligned with customer needs or business objectives
+b) They are partially aligned with customer needs and business objectives
+c) They are fully aligned with customer needs and business objectives
+
+Are your SLOs and SLAs achievable?
+a) No, they are not achievable
+b) They are partially achievable
+c) They are achievable
+
+Are your SLOs and SLAs regularly monitored and reported on?
+a) No, they are not monitored or reported on
+b) They are partially monitored and reported on
+c) They are regularly monitored and reported on
+
+Are your SLOs and SLAs effectively communicated to stakeholders?
+a) No, they are not effectively communicated to stakeholders
+b) They are partially communicated to stakeholders
+c) They are effectively communicated to stakeholders
+
+Are penalties or incentives tied to SLA attainment or failure?
+a) No, there are no penalties or incentives tied to SLAs
+b) There are penalties, but no incentives tied to SLAs
+c) There are incentives, but no penalties tied to SLAs
+d) There are both penalties and incentives tied to SLAs
+
+Are your SLOs and SLAs integrated into your incident management process?
+a) No, they are not integrated into our incident management process
+b) They are partially integrated into our incident management process
+c) They are fully integrated into our incident management process
+
+How do you measure the success of your SLOs and SLAs?
+a) We do not measure the success of our SLOs or SLAs
+b) We measure some metrics, but not all
+c) We measure all relevant metrics
+
+
+Monitoring and Observability
+
+
+Does your organization have a monitoring and observability strategy in place?
+a) No, we do not have a monitoring and observability strategy
+b) We have a monitoring strategy, but not an observability strategy
+c) We have an observability strategy, but not a monitoring strategy
+d) We have both a monitoring and observability strategy
+
+Are your monitoring and observability tools and processes automated?
+a) No, they are not automated
+b) They are partially automated
+c) They are fully automated
+
+Are your monitoring and observability tools and processes integrated into your development and deployment pipelines?
+a) No, they are not integrated into our pipelines
+b) They are partially integrated into our pipelines
+c) They are fully integrated into our pipelines
+
+Are you monitoring all key metrics for your applications and infrastructure?
+a) No, we are not monitoring all key metrics
+b) We are monitoring some metrics, but not all
+c) We are monitoring all key metrics
+
+Are you collecting and analyzing logs from all relevant sources?
+a) No, we are not collecting logs from all relevant sources
+b) We are collecting logs from some sources, but not all relevant sources
+c) We are collecting and analyzing logs from all relevant sources
+
+Are you using machine learning or other advanced techniques to identify and troubleshoot issues?
+a) No, we are not using machine learning or other advanced techniques
+b) We are using some advanced techniques, but not machine learning
+c) We are using machine learning and other advanced techniques
+
+Are you able to quickly identify and resolve incidents using your monitoring and observability tools?
+a) No, we are not able to quickly identify and resolve incidents
+b) We are partially able to quickly identify and resolve incidents
+c) We are able to quickly identify and resolve incidents
+
+Are you able to proactively identify potential issues before they impact customers or users?
+a) No, we are not able to proactively identify potential issues
+b) We are partially able to proactively identify potential issues
+c) We are able to proactively identify potential issues
+
+Are your monitoring and observability practices continuously reviewed and improved?
+a) No, they are not continuously reviewed and improved
+b) They are partially reviewed and improved
+c) They are continuously reviewed and improved
+
+
+
+Change management
+
+
+Does your organization have a formal change management process in place?
+a) No, we do not have a formal change management process
+b) We have a partially documented change management process
+c) We have a fully documented change management process
+
+Are all changes documented and tracked?
+a) No, not all changes are documented and tracked
+b) Some changes are documented and tracked, but not all
+c) All changes are documented and tracked
+
+Are there clear roles and responsibilities defined for change management?
+a) No, roles and responsibilities are not clearly defined
+b) Roles and responsibilities are partially defined
+c) Roles and responsibilities are clearly defined
+
+Is there a change advisory board (CAB) or a similar group that evaluates changes?
+a) No, there is no CAB or similar group
+b) There is a partially established CAB or similar group
+c) There is a fully established CAB or similar group
+
+Are all changes reviewed and approved before implementation?
+a) No, not all changes are reviewed and approved
+b) Some changes are reviewed and approved, but not all
+c) All changes are reviewed and approved before implementation
+
+Are there well-defined procedures for emergency changes?
+a) No, there are no well-defined procedures for emergency changes
+b) There are partially defined procedures for emergency changes
+c) There are well-defined procedures for emergency changes
+
+Is there a process for tracking and managing change requests?
+a) No, there is no process for tracking and managing change requests
+b) There is a partially established process for tracking and managing change requests
+c) There is a well-established process for tracking and managing change requests
+
+Are changes tested and validated before implementation?
+a) No, changes are not tested and validated before implementation
+b) Some changes are tested and validated, but not all
+c) All changes are tested and validated before implementation
+
+Is there a process for communicating changes to stakeholders?
+a) No, there is no process for communicating changes to stakeholders
+b) There is a partially established process for communicating changes to stakeholders
+c) There is a well-established process for communicating changes to stakeholders
+
+Are change management practices continuously reviewed and improved?
+a) No, change management practices are not continuously reviewed and improved
+b) Change management practices are partially reviewed and improved
+c) Change management practices are continuously reviewed and improved
+
+Automation
+
+
+To what extent are your manual processes automated?
+a) No manual processes are automated
+b) Some manual processes are automated, but not all
+c) All manual processes are automated
+
+Do you have a strategy or roadmap for automation?
+a) No, we do not have a strategy or roadmap for automation
+b) We have a partially established strategy or roadmap for automation
+c) We have a well-established strategy or roadmap for automation
+
+To what extent do you use automation for repetitive and time-consuming tasks?
+a) We do not use automation for repetitive and time-consuming tasks
+b) We use automation for some repetitive and time-consuming tasks
+c) We use automation for all repetitive and time-consuming tasks
+
+Do you use automation to support decision-making?
+a) No, we do not use automation to support decision-making
+b) We use automation to support decision-making in some areas
+c) We use automation to support decision-making in all areas
+
+Do you have automated monitoring and alerting systems in place?
+a) No, we do not have automated monitoring and alerting systems in place
+b) We have partially established automated monitoring and alerting systems
+c) We have well-established automated monitoring and alerting systems
+
+To what extent are your testing and deployment processes automated?
+a) We do not have automated testing and deployment processes
+b) We have partially established automated testing and deployment processes
+c) We have well-established automated testing and deployment processes
+
+Are you using machine learning or artificial intelligence to automate tasks?
+a) No, we are not using machine learning or artificial intelligence to automate tasks
+b) We are using machine learning or artificial intelligence to automate tasks in some areas
+c) We are using machine learning or artificial intelligence to automate tasks in all areas
+
+Do you have a dedicated team or department for automation?
+a) No, we do not have a dedicated team or department for automation
+b) We have partially established a dedicated team or department for automation
+c) We have a well-established dedicated team or department for automation
+
+To what extent do you use automation to ensure compliance?
+a) We do not use automation to ensure compliance
+b) We use automation to ensure compliance in some areas
+c) We use automation to ensure compliance in all areas
+
+Do you continuously review and improve your automation processes?
+a) No, we do not continuously review and improve our automation processes
+b) We partially review and improve our automation processes
+c) We continuously review and improve our automation processes
+
+
+
+Resilience engineering
+
+How well do you understand the resilience of your systems?
+a) We have no understanding of the resilience of our systems
+b) We have partial understanding of the resilience of our systems
+c) We have a good understanding of the resilience of our systems
+
+Do you have a process in place to identify and prioritize critical systems?
+a) No, we do not have a process in place to identify and prioritize critical systems
+b) We have a partially established process to identify and prioritize critical systems
+c) We have a well-established process to identify and prioritize critical systems
+
+To what extent do you use chaos engineering to test system resilience?
+a) We do not use chaos engineering to test system resilience
+b) We use chaos engineering to test system resilience in some areas
+c) We use chaos engineering to test system resilience in all areas
+
+Do you have a plan in place to respond to incidents and ensure continuity of service?
+a) No, we do not have a plan in place to respond to incidents and ensure continuity of service
+b) We have a partially established plan in place to respond to incidents and ensure continuity of service
+c) We have a well-established plan in place to respond to incidents and ensure continuity of service
+
+To what extent do you use monitoring and observability to identify potential issues before they impact customers?
+a) We do not use monitoring and observability to identify potential issues before they impact customers
+b) We use monitoring and observability to identify potential issues before they impact customers in some areas
+c) We use monitoring and observability to identify potential issues before they impact customers in all areas
+
+Do you have a process in place to review and learn from incidents?
+a) No, we do not have a process in place to review and learn from incidents
+b) We have a partially established process in place to review and learn from incidents
+c) We have a well-established process in place to review and learn from incidents
+
+Do you regularly conduct risk assessments to identify potential threats to your systems?
+a) No, we do not regularly conduct risk assessments
+b) We conduct risk assessments in some areas
+c) We conduct risk assessments across all areas of our systems
+
+To what extent do you collaborate with external stakeholders to improve system resilience?
+a) We do not collaborate with external stakeholders to improve system resilience
+b) We collaborate with some external stakeholders to improve system resilience
+c) We collaborate with all relevant external stakeholders to improve system resilience
+
+Do you have a culture of continuous improvement and experimentation?
+a) No, we do not have a culture of continuous improvement and experimentation
+b) We partially have a culture of continuous improvement and experimentation
+c) We have a strong culture of continuous improvement and experimentation
+
+Do you have dedicated resources or teams for resilience engineering?
+a) No, we do not have dedicated resources or teams for resilience engineering
+b) We have partially established dedicated resources or teams for resilience engineering
+c) We have well-established dedicated resources or teams for resilience engineering
+
+
+Collaboration and communication
+
+
+How well do your teams collaborate with each other?
+a) We have a poor level of collaboration between teams
+b) We have some level of collaboration between teams, but it is not consistent
+c) We have a high level of collaboration between teams
+
+Do you have a process in place to communicate changes and incidents to stakeholders?
+a) We do not have a process in place to communicate changes and incidents to stakeholders
+b) We have a partially established process in place to communicate changes and incidents to stakeholders
+c) We have a well-established process in place to communicate changes and incidents to stakeholders
+
+To what extent do you use collaboration tools such as chat applications and project management software?
+a) We do not use collaboration tools such as chat applications and project management software
+b) We use some collaboration tools, but not consistently across all teams
+c) We use collaboration tools across all teams
+
+Do you have a process in place to encourage and act on feedback from stakeholders?
+a) We do not have a process in place to encourage and act on feedback from stakeholders
+b) We have a partially established process in place to encourage and act on feedback from stakeholders
+c) We have a well-established process in place to encourage and act on feedback from stakeholders
+
+To what extent do you involve stakeholders in decision-making processes?
+a) We do not involve stakeholders in decision-making processes
+b) We involve some stakeholders in decision-making processes, but not consistently
+c) We involve stakeholders in decision-making processes across all relevant areas
+
+Do you have a process in place for resolving conflicts between teams or stakeholders?
+a) We do not have a process in place for resolving conflicts between teams or stakeholders
+b) We have a partially established process in place for resolving conflicts between teams or stakeholders
+c) We have a well-established process in place for resolving conflicts between teams or stakeholders
+
+How well do your teams communicate with external vendors or customers?
+a) We have poor communication with external vendors or customers
+b) We have some communication with external vendors or customers, but it is not consistent
+c) We have a high level of communication with external vendors or customers
+
+To what extent do you use metrics to measure the effectiveness of your communication and collaboration practices?
+a) We do not use metrics to measure the effectiveness of our communication and collaboration practices
+b) We use some metrics to measure the effectiveness of our communication and collaboration practices, but not consistently
+c) We use metrics to measure the effectiveness of our communication and collaboration practices across all relevant areas
+
+Do you provide training or resources to improve collaboration and communication skills?
+a) We do not provide training or resources to improve collaboration and communication skills
+b) We provide some training or resources, but not consistently across all teams
+c) We provide training or resources to improve collaboration and communication skills across all relevant teams
+
+Do you regularly seek feedback from team members or stakeholders to improve your collaboration and communication practices?
+a) We do not regularly seek feedback from team members or stakeholders to improve our collaboration and communication practices
+b) We seek feedback from some team members or stakeholders, but not consistently
+c) We regularly seek feedback from team members or stakeholders to improve our collaboration and communication practices
+
+
+Continuous improvement
+
+Do you have a process in place to identify areas for improvement?
+a) We do not have a process in place to identify areas for improvement
+b) We have a partially established process in place to identify areas for improvement
+c) We have a well-established process in place to identify areas for improvement
+
+To what extent do you involve all relevant teams in the improvement process?
+a) We do not involve all relevant teams in the improvement process
+b) We involve some relevant teams, but not consistently
+c) We involve all relevant teams in the improvement process
+
+Do you prioritize improvements based on their potential impact on your business goals?
+a) We do not prioritize improvements based on their potential impact on our business goals
+b) We partially prioritize improvements based on their potential impact on our business goals
+c) We prioritize improvements based on their potential impact on our business goals
+
+To what extent do you use data to drive improvement efforts?
+a) We do not use data to drive improvement efforts
+b) We partially use data to drive improvement efforts
+c) We use data to drive improvement efforts
+
+Do you have a process in place to test and validate improvement ideas before implementing them?
+a) We do not have a process in place to test and validate improvement ideas before implementing them
+b) We partially have a process in place to test and validate improvement ideas before implementing them
+c) We have a well-established process in place to test and validate improvement ideas before implementing them
+
+To what extent do you measure the effectiveness of improvement efforts?
+a) We do not measure the effectiveness of improvement efforts
+b) We partially measure the effectiveness of improvement efforts
+c) We measure the effectiveness of improvement efforts and adjust our approach accordingly
+
+Do you have a process in place to share and communicate improvements across all relevant teams?
+a) We do not have a process in place to share and communicate improvements across all relevant teams
+b) We partially have a process in place to share and communicate improvements across all relevant teams
+c) We have a well-established process in place to share and communicate improvements across all relevant teams
+
+Do you encourage and reward individuals or teams who contribute to improvement efforts?
+a) We do not encourage or reward individuals or teams who contribute to improvement efforts
+b) We partially encourage or reward individuals or teams who contribute to improvement efforts
+c) We encourage and reward individuals or teams who contribute to improvement efforts
+
+To what extent do you use continuous improvement as a cultural value and mindset within your organization?
+a) We do not use continuous improvement as a cultural value and mindset within our organization
+b) We partially use continuous improvement as a cultural value and mindset within our organization
+c) We use continuous improvement as a cultural value and mindset within our organization
+
+Do you regularly evaluate and adjust your continuous improvement processes to ensure their effectiveness?
+a) We do not regularly evaluate and adjust our continuous improvement processes
+b) We partially evaluate and adjust our continuous improvement processes
+c) We regularly evaluate and adjust our continuous improvement processes to ensure their effectiveness
